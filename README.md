@@ -185,40 +185,54 @@ Appxlrth V 是全新的整合式加固内核，把旧版分散的防护功能合
 
 ---
 
-下载
-版本	下载链接
-Appxlrth 1.0.4（最新版）	https://share.feijipan.com/s/fN7fg1LE
-Appxlrth V（一键式保护工具）	https://share.feijipan.com/s/eP7yJGGK
-Appxlrth 1.0.3（旧版）	https://share.feijipan.com/s/pw5eVSgm
-投稿功能
-目前只收录了胸大（Flash丶光芒）的 Layout Inspect。
+## 下载
 
-想要投稿应用可联系作者。
+| 版本 | 下载链接 |
+| --- | --- |
+| **Appxlrth 1.0.4**（最新版） | https://share.feijipan.com/s/fN7fg1LE |
+| **Appxlrth V**（一键式保护工具） | https://share.feijipan.com/s/eP7yJGGK |
+| **Appxlrth 1.0.3**（旧版） | https://share.feijipan.com/s/pw5eVSgm |
 
-只收录关于逆向方面的工具，且不能收费。
+---
 
-特别鸣谢
-ayo —— 对于本软件的赞助（有能力的资助一下作者）
+## 投稿功能
 
-111 —— 对于本软件的保护
+- 目前只收录了胸大（Flash丶光芒）的 Layout Inspect。
+- 想要投稿应用可联系作者。
+- **只收录关于逆向方面的工具，且不能收费。**
 
-LianYi —— 对于 iApp 代码混淆功能提供部分思路
+---
 
-小猪 —— 投稿 Assets Encryption 功能
+## 特别鸣谢
 
-飞鸟 —— 投稿 AI 助手功能
+- **ayo** —— 对于本软件的赞助（有能力的资助一下作者）
+- **111** —— 对于本软件的保护
+- **LianYi** —— 对于 iApp 代码混淆功能提供部分思路
+- **小猪** —— 投稿 Assets Encryption 功能
+- **飞鸟** —— 投稿 AI 助手功能
+- **光芒** —— 部分 UI 灵感来源
 
-Li@光芒 —— 部分 UI 灵感来源
+---
 
-免责声明
-本工具仅供学习、研究与合法的应用安全防护使用。请勿将本工具用于侵权破解他人软件、绕过正版验证等违法违规用途。使用者需自行承担因不当使用产生的一切后果。
+## 免责声明
 
-支持作者
+本工具仅供**学习、研究与合法的应用安全防护**使用。请勿将本工具用于侵权破解他人软件、绕过正版验证等违法违规用途。使用者需自行承担因不当使用产生的一切后果。
+
+---
+
+## 支持作者
+
 项目完全出于个人业余时间开发维护，投入了不少时间精力。目前已公益化运营，如果它对你有帮助，欢迎赞助支持作者，也欢迎反馈 BUG、提出功能想法，合理的建议会在后续版本优先考虑。
 
-相关链接
-论坛介绍帖（Appxlrth 1.0.4）：https://bbs.binmt.cc/thread-171472-1-1.html
+---
 
-论坛介绍帖（Appxlrth 1.0.3 介绍）：https://bbs.binmt.cc/thread-169806-1-1.html
+## 相关链接
 
-本项目由 S.E.Siper（小迁）开发维护。
+- 论坛介绍帖（Appxlrth 1.0.4）：https://bbs.binmt.cc/thread-171472-1-1.html
+- 论坛介绍帖（Appxlrth 1.0.3 介绍）：https://bbs.binmt.cc/thread-169806-1-1.html
+
+---
+
+*本项目由 S.E.Siper（小迁）开发维护。*
+
+---
