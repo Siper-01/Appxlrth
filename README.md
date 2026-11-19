@@ -1,7 +1,7 @@
 # Appxlrth
 
 > 免费的逆向分析与应用保护工具箱
-> 最新版本：**1.0.4**
+> 最新版本：**1.0.5**
 > 作者：S.E.Siper（小迁）
 
 Appxlrth 是一款面向 Android 应用开发者与逆向学习者的**一体化工具集**，同时覆盖「逆向分析」与「应用加固保护」两条主线。它既可以帮助你分析、调试、脱壳 APK，也可以帮助你为自己的应用加上多层防护，抵御静态逆向、动态调试乃至当下流行的 AI 一键逆向。
@@ -18,7 +18,7 @@ Appxlrth 是一款面向 Android 应用开发者与逆向学习者的**一体化
 
 ---
 
-## 最新版本：1.0.4
+## 旧版本：1.0.4
 
 ### 更新内容
 
@@ -26,6 +26,17 @@ Appxlrth 是一款面向 Android 应用开发者与逆向学习者的**一体化
 2. **移除 Appxlrth 工具中**的 Appxlrth 加固、Dex Protect、So Protect。旧版独立模块不再维护，全部迁移至 V 版本统一迭代。
 3. **新增 Mcp 服务合集**，目前收录 MT（mt mcp）、NexusBridge（r2 mcp / unidbg mcp / logfox mcp），打通工具之间的联动调试链路。
 4. **新增 Apk 在线脱壳**，一键 Dump 加密保护的 Dex 文件。某数字加固还不能脱出，仅针对市面主流加固方案生效。
+
+## 新版本：1.0.5
+
+### 更新内容
+1. **新增 iAppv3 布局转 nvw**，支持将 iAppv3 布局文件一键转换为 nvw 格式，简化迁移与适配流程。
+2. **开源 iAppDecrypt 后端源码**，仓库地址（由Benk开源）:https://github.com/aiysss/iapp-decrypt
+3. **新增 卡密验证去除**，可自动识别并去除应用内的卡密验证逻辑，方便调试与学习分析。
+4.**新增 360 静态还原**，支持对 360 加固应用进行静态还原处理，便于后续分析与修改。
+5. **新增 nmmp 静态还原**，支持对 nmmp 加固/混淆应用进行静态还原处理，提升逆向分析效率。
+6. **新增 dpt 静态还原**，支持对 dpt 加固应用进行静态还原处理，进一步完善加固还原能力。
+
 
 ### Appxlrth V —— 一键式保护工具
 
@@ -189,7 +200,8 @@ Appxlrth V 是全新的整合式加固内核，把旧版分散的防护功能合
 
 | 版本 | 下载链接 |
 | --- | --- |
-| **Appxlrth 1.0.4**（最新版） | https://share.feijipan.com/s/fN7fg1LE |
+| **Appxlrth 1.0.5**（新版） | https://share.feijipan.com/s/qZvsQPoP
+| **Appxlrth 1.0.4**（旧版） | https://share.feijipan.com/s/fN7fg1LE |
 | **Appxlrth V**（一键式保护工具） | https://share.feijipan.com/s/eP7yJGGK |
 | **Appxlrth 1.0.3**（旧版） | https://share.feijipan.com/s/pw5eVSgm |
 
@@ -227,7 +239,7 @@ Appxlrth V 是全新的整合式加固内核，把旧版分散的防护功能合
 ---
 
 ## 相关链接
-
+- 论坛介绍帖（Appxlrth 1.0.5）：https://bbs.binmt.cc/thread-173848-1-1.html
 - 论坛介绍帖（Appxlrth 1.0.4）：https://bbs.binmt.cc/thread-171472-1-1.html
 - 论坛介绍帖（Appxlrth 1.0.3 介绍）：https://bbs.binmt.cc/thread-169806-1-1.html
 
